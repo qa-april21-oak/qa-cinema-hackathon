@@ -20,3 +20,17 @@ body{
             width: 20rem;
             height: 20rem;
         }
+
+
+#one {
+	background-image: url("img/InternationalHouse.jpeg");
+	object-fit: cover;
+}
+#two {
+	background-image: url("img/InternationalHouse2.jpeg");
+	object-fit: cover;
+}
+#three {
+	background-image: url("img/InternationalHouse2.jpeg");
+	object-fit: cover;
+}
